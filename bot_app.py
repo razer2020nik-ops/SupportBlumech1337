@@ -5,7 +5,7 @@ from tkinter import messagebox
 import telebot
 
 # ================= НАСТРОЙКИ =================
-BOT_TOKEN = "ВСТАВЬ_СВОЙ_ТОКЕН_СЮДА"
+BOT_TOKEN = "8322137959:AAE3c3iOkIUO-ZMcFhc2J27mGXysvbRJBNM"
 ANTISPAM_SECONDS = 3
 
 # ================= ГЛОБАЛЬНЫЕ =================
